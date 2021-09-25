@@ -1,0 +1,16 @@
+body {
+    background-color: #FFD6AF;
+}
+
+.header {
+    text-align: center;
+}
+
+.section {
+    margin: 20px;
+}
+
+.about-me {
+    display: flex;
+    justify-content: space-between;
+}
